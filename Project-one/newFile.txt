@@ -1,0 +1,7 @@
+-------------------------------------------
+Customer name: Abhishek
+Customer address:  Mahad
+Date & time:  2022-11-06 01:03:54.574
+Quantity: 6
+List of purchased items: [Jio Phone, Nokia 3310, Oneplus 11, Samsung S22, Jio Phone, Nokia 3310]
+Total purchase amount: 110999.0-------------------------------------------
